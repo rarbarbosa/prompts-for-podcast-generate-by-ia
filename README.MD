@@ -27,11 +27,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Copilot](https://copilot.microsoft.com/)
-- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Copilot Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
