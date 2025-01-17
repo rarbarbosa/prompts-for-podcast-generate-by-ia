@@ -36,7 +36,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Copilot] (https://copilot.microsoft.com/)
+- [Copilot](https://copilot.microsoft.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
